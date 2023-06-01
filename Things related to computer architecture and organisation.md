@@ -1,4 +1,5 @@
 ## Von Neumann's Architecture
+(sources: https://www.geeksforgeeks.org/computer-organization-von-neumann-architecture/)
 Historically, there are two types of computers:
 1. Fixed Programmed Computers, which cannot be reprogrammed, e.g. calculators.
 2. Stored Programmed Computers, whose storage modules store the programs.  
